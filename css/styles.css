@@ -4,6 +4,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.header {
+  color: #ffffff;
+}
+
 .nav-logo {
   color: #4d5ae5;
   font-family: Raleway;
